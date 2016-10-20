@@ -1,0 +1,5 @@
+introduce el primer numero
+5
+introduce el segundo numero
+5
+El maximo comun denominador es 5
